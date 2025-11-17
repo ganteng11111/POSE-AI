@@ -1,0 +1,5 @@
+{
+  "name": "POSE AI SHARE",
+  "description": "Upload a photo of a person and provide a theme to generate 9 different poses with a similar face. Each generated pose can be previewed and downloaded.",
+  "requestFramePermissions": []
+}
